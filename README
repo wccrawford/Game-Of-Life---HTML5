@@ -5,3 +5,5 @@ As it exists, it can be used to make a Chrome App with the following command:
 zip -r gameoflife.zip gameoflife/*
 
 And then upload that zip file to the Chrome Developer Dashboard.
+
+Current Chrome Web Store version of this code can be found at https://chrome.google.com/webstore/detail/gdcidaphmhbmlkllfcfiefifhanekncn
