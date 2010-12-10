@@ -1,0 +1,7 @@
+Game Of Life implemented in HTML 5.
+
+As it exists, it can be used to make a Chrome App with the following command:
+
+zip -r gameoflife.zip gameoflife/*
+
+And then upload that zip file to the Chrome Developer Dashboard.
